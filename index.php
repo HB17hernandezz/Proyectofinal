@@ -25,15 +25,14 @@
 		<div class="full-reset logo">
 			<img class="logo" src="assets/img/ITGAM.bmp" alt="itgam logo">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<span class="hidden-lg hidden-md">Instituto Tecnológico De Gustavo A. Madero</span>
 			<span class="hidden-xs hidden-sm">Instituto Tecnológico De Gustavo A. Madero</span>
 		</div>
 		<!--======================================== Links de navegación ========================================-->
 		<nav class="full-reset navigation">
 			<ul class="full-reset list-unstyled">
-				<li><a href="index.php">Inicio</a></li>
-				<li><a href="MISION.php">Institución</a></li>
-				<li><a href="Docentes.php">Docentes</a></li>
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="MISION.html">Institución</a></li>
+				<li><a href="Docentes.html">Docentes</a></li>
 				<li><a href="#" class="btm-mega-menu">Más &nbsp;<i class="fa fa-caret-down"></i></a></li>
 			</ul>
 		</nav>
