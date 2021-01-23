@@ -22,8 +22,9 @@
 	<!--======================================== Navegación ========================================-->
 	<header class="full-reset header">
 		<!--======================================== Logo(Nombre INS) ========================================-->
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		
 		<div class="full-reset logo">
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<img class="logo" src="assets/img/ITGAM.bmp" alt="itgam logo">
 
 			<span class="hidden-lg hidden-md">Instituto Tecnológico De Gustavo A. Madero</span>
