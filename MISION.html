@@ -31,7 +31,7 @@
 		<!--======================================== Links de navegación ========================================-->
 		<nav class="full-reset navigation">
 			<ul class="full-reset list-unstyled">
-				<li><a href="index.html">Inicio</a></li>
+				<li><a href="index.php">Inicio</a></li>
 				<li><a href="MISION.html">Institución</a></li>
 				<li><a href="Docentes.html">Docentes</a></li>
 				<li><a href="#" class="btm-mega-menu">Más &nbsp;<i class="fa fa-caret-down"></i></a></li>
