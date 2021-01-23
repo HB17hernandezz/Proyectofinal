@@ -6,7 +6,7 @@ html, body {
     margin: 0;
     padding: 0;
     width: 100%;
-    font-family: 'Calibri', sans-serif;
+    font-family: 'Cambria', sans-serif;
     font-size: 16px;
     background-color: #fff;
     position: relative;
@@ -84,7 +84,7 @@ height:50px;
     line-height: 50px;
     text-align: center;
     font-size: 24px;
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Lucida Bright', sans-serif;
     width: 15%;
     position: absolute;
     top: 0;
@@ -514,7 +514,7 @@ a{
 
     h2{
         font-size: 20px;
-       font-family: 'Fjalla One';
+       font-family: 'Copperplate';
   font-style: normal;
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/fjallaone/v8/Yq6R-LCAWCX3-6Ky7FAFrO96kigt.woff2) format('woff2');
@@ -522,7 +522,7 @@ a{
     }
     h3{
         font-size: 18px;
-       font-family: 'Fjalla One';
+       font-family: 'Copperplate';
   font-style: normal;
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/fjallaone/v8/Yq6R-LCAWCX3-6Ky7FAFrO96kigt.woff2) format('woff2');
