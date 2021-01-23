@@ -86,8 +86,9 @@ height:50px;
     font-size: 21px;
     font-family: 'Lucida Bright', sans-serif;
     width: 15%;
-    top: 0;
-    left: 0;
+    position: absolute;
+    top: auto;
+    left: auto;
 }
 .navigation{
     height: 50px;
