@@ -36,7 +36,7 @@
 				<li><a href="index.html">Inicio</a></li>
 				<li><a href="MISION.html">Institución</a></li>
 				<li><a href="Docentes.html">Docentes</a></li>
-				<li><a href="#" class="btm-mega-menu">Más<i class="fa fa-caret-down"></i></a></li>
+				<li><a href="#" class="btm-mega-menu">Más &nbsp;<i class="fa fa-caret-down"></i></a></li>
 			</ul>
 		</nav>
 		<!--======================================== Mega menu ========================================-->
